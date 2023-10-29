@@ -1,0 +1,24 @@
+{
+    "141023": {
+        "outfit": {
+            "hair": "grizzly",
+            "shirt": "foo",
+            "leggings": "bar"
+        },
+        "weather": {
+            "temperature": 32,
+            "humidity": 5,
+            "location": "somewhere",
+            "comment": "cloudy"
+        },
+        "mood": {
+            "anger": 32,
+            "sadness": 16,
+            "happiness": 78,
+            "charge": 87
+        },
+        "ddmmyy": "10/23/2007",
+        "text": "skinny jeans",
+        "title": "its working!!!"
+    }
+}
